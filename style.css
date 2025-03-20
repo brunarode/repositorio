@@ -5,7 +5,8 @@ body{ background-color:beige;
     color:black
  }
 font-family:Georgia, 'Times New Roman', Times, serif;}
-image{
-   border: 20px;
-   size: 50px;
+img{
+   width: 300px;
+   height: auto;
+   border-radius: 15px;
 }
