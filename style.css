@@ -1,5 +1,9 @@
 body{ background-color:beige;
-    color:black;
+}
+ h1{
+    font-style: italic;
+    color:black
+ }
 font-family:Georgia, 'Times New Roman', Times, serif;}
 p {
     margin-bottom: 10px;
