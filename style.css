@@ -6,6 +6,8 @@ body{ background-color:beige;
  }
  .imagem {
    width: 30%;
+   width: 200;
+   height: 200;
  }
 font-family:Georgia, 'Times New Roman', Times, serif;
 
