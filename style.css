@@ -15,8 +15,8 @@ body{ background-color:beige;
  }
 
 .caixa {
-   width: 200px;
-   height: 100px;
+   width: 500px;
+   height: 500px;
    border: 2px rgb(107, 53, 3);
    border-radius: 15px;
    background-color: rgb(107, 53, 3);
