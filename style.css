@@ -1,6 +1,6 @@
-body{ background-color:#FFF1D8;
+body{ 
+   background-color:#FFF1D8;
    text-align: justify;
-   text-size-adjust: 100%;
 }
  h1{
     font-style: italic;
@@ -15,9 +15,10 @@ body{ background-color:#FFF1D8;
  }
 
 .caixa {
+   max-width: 90%;
    width: 1000px;
-   height: 700px;
-   border: 2px #DDB784;
+   height: auto;
+   border: 2px solid #DDB784;
    border-radius: 15px;
    background-color: #DDB784;
    padding: 10px;
