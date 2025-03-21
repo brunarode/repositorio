@@ -25,21 +25,20 @@ body{
    object-fit: cover;
    border-radius: 15px;
    margin: 10px;
+   margin-right: 20px;
  }
 
 .caixa {
    display: flex;
-   flex-wrap: wrap;
-   justify-content: flex-start;
+   flex-direction: row;
    gap: 20px;
-   max-width: 90%;
-   width: 1000px;
+   width: 100%;
    height: auto;
    border: 2px solid #DDB784;
    border-radius: 15px;
    background-color: #DDB784;
    padding: 20px;
-   margin-bottom: 20px;
+   flex-wrap: wrap;
 }
 
 .coluna1, .coluna2 {
