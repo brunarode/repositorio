@@ -1,9 +1,10 @@
 body{ background-color:beige;
    font-family: 'Times New Roman', Times, serif;
+
 }
  h1{
     font-style: italic;
-    color:black
+    color:rgb(100, 60, 0)
  }
  .imagem {
    width: 200px;
