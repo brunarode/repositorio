@@ -4,5 +4,8 @@ body{ background-color:beige;
     font-style: italic;
     color:black
  }
+ .imagem {
+   width: 30%;
+ }
 font-family:Georgia, 'Times New Roman', Times, serif;
 
