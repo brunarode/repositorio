@@ -27,6 +27,8 @@ body{
  }
 
 .caixa {
+   display: flex;
+   justify-content: space-between;
    max-width: 90%;
    width: 1000px;
    height: auto;
@@ -35,6 +37,10 @@ body{
    background-color: #DDB784;
    padding: 20px;
    margin-bottom: 20px;
+}
+
+.coluna1, .coluna2 {
+  width: 48%;  
 }
 
 h3 {
@@ -51,5 +57,11 @@ ul {
 }
 
 ol {
+   margin-left: 20px;
+}
+
+blockquote {
+   font-style: italic;
+   color: #5C3B1C;
    margin-left: 20px;
 }
