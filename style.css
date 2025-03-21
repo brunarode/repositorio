@@ -24,5 +24,6 @@ body{ background-color:#FFF1D8;
 }
 .container {
    display: flex;
-   align-items: center;
+   vertical-align: top;
+   margin-left: 10px;
 }
