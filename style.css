@@ -22,8 +22,3 @@ body{ background-color:#FFF1D8;
    background-color: (204, 137, 74);
    padding: 10px;
 }
-.container {
-   display: flex;
-   vertical-align: top;
-   margin-left: 10px;
-}
