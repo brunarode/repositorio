@@ -12,6 +12,16 @@ body{
     color:#816238;
  }
 
+.inicio {
+  height: 800px;
+  background-image: url();
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  text-align: center;
+  padding: 20px;
+
+}
  .imagem {
    width: 100%;
    height: auto;
