@@ -14,7 +14,7 @@ body{
 
 .inicio {
   height: 800px;
-  background-image: url();
+  background-image:gato-estante;
   background-size: cover;
   background-position: center;
   display: flex;
