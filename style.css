@@ -1,6 +1,7 @@
 body{ 
    background-color:#FEF6E1;
    text-align: justify;
+   flex: 1 1 45%;
    font-size: 2vw;
    font-family: 'Times New Roman', Times, serif;
 }
