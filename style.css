@@ -8,7 +8,7 @@ body{
 }
 
 header { 
-   background-image: url(snoopy-lendo.jpeg);
+   background-image: url('snoopy-lendo.jpeg');
    background-size: cover;
 }
 
