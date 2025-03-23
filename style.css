@@ -7,6 +7,10 @@ body{
    margin: 20px;
 }
 
+header { 
+   background-image: url(snoopy-lendo.jpeg);
+}
+
 main {
    margin: 20px;
 }
