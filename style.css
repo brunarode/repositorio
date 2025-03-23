@@ -30,7 +30,7 @@ header {
  }
 
 .caixa {
-   flex: 1 1 45%;
+   flex: 1 1 45%; 
    font-size: 2vw;
    display: flex;
    flex-grow: 1;
