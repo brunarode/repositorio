@@ -11,8 +11,8 @@ body{
    margin: 0%;
    padding: 0%;
    background-image: url('snoopy-lendo.jpeg');
-   background-size: contain;
-   background-position: center;
+   background-size: cover;
+   background-position: left center;
    background-repeat: no-repeat;
 }
 
