@@ -5,7 +5,9 @@ body{
    font-family: 'Times New Roman', Times, serif;
    margin: 20px;
 }
-
+.header {
+   background-image: url('cupcake.jpeg');
+}
  h1, h2{
     font-style: italic;
     font-family:'Times New Roman', Times, serif
