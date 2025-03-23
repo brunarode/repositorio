@@ -3,7 +3,10 @@ body{
    text-align: justify;
    font-size: 24px;
    font-family: 'Times New Roman', Times, serif;
-   box-sizing: border-box;}
+   box-sizing: border-box;
+   height: 100%;
+}
+
 header {
    margin: 0px;
    padding: 0px;
