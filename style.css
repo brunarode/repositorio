@@ -8,7 +8,7 @@ body{
 
 header { 
    width: 100%;
-   font-size: 30;
+   font-size: 30px;
    height: 100vh;
    background-image: url('gato-muffin.jpeg');
    background-size: cover;
