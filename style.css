@@ -18,8 +18,8 @@ main {
 
  h1, h2{
     font-style: italic;
-    font-family:'Times New Roman', Times, serif
-    color:#816238;
+    font-family:'Times New Roman', Times, serif;
+    color: #816238;
  }
 
  .imagem {
