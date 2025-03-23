@@ -11,6 +11,7 @@ body{
    background-image: url('gato-muffin.jpeg');
    background-size: cover;
    background-position: bottom center;
+   display: flex;
    flex-direction: column;
    text-align: left;
    padding: 20px;
