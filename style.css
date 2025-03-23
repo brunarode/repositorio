@@ -11,6 +11,10 @@ body{
    background-image: url('gato-muffin.jpeg');
    background-size: cover;
    background-position: bottom center;
+   display: flex;
+   align-items: flex-start;
+   justify-content: flex-start;
+   padding: 20px;
 }
 
  h1, h2{
