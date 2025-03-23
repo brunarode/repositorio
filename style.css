@@ -7,8 +7,11 @@ body{
 }
 
 header { 
+   width: 100vh;
    background-image: url('gato-estante.jpeg');
    background-size: cover;
+   background-position: center center;
+   background-repeat: no-repeat;
 }
 
 main {
