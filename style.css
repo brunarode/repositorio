@@ -32,7 +32,6 @@ body{
  }
 
 .caixa {
-   flex: 1 1 45%; 
    font-size: 20px;
    display: flex;
    flex-grow: 1;
@@ -57,7 +56,7 @@ h3, h4 {
 }
 
 ul, ol {
-   margin-left: 20px;
+   margin-left: 10px;
 }
 
 blockquote {
