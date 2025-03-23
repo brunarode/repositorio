@@ -12,6 +12,7 @@ body{
    background-size: cover;
    background-position: bottom center;
    flex-direction: column;
+   text-align: left;
    padding: 20px;
 }
 
