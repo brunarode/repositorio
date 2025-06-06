@@ -30,22 +30,22 @@ body{
    object-fit: cover;
    border-radius: 15px;
    margin: 10px;
-   margin-right: 20px;
+   margin-right: 20 px;
  }
 
 .caixa {
-   font-size: 20px;
+   font-size: 20 px;
    display: flex;
    flex-grow: 1;
    justify-content: space-between;   
    max-width: 100%;
    width: 90%;
    height: auto;
-   border: 2px solid #DDB784;
-   border-radius: 15px;
+   border: 2 px solid #DDB784;
+   border-radius: 15 px;
    background-color: #DDB784;
-   padding: 20px;
-   margin-bottom: 20px;
+   padding: 20 px;
+   margin-bottom: 20 px;
 }
 
 .coluna1, .coluna2 {
@@ -54,15 +54,19 @@ body{
 
 h3, h4 {
    color: #5C3B1C;
-   margin-top: 15px;
+   margin-top: 15 px;
 }
 
 ul, ol {
-   margin-left: 10px;
+   margin-left: 10 px;
 }
 
 blockquote {
    font-style: italic;
    color: #5C3B1C;
-   margin-left: 20px;
+   margin-left: 20 px;
+}
+
+.inicio {
+   color: #5C3B1Ca;
 }
