@@ -1,7 +1,11 @@
 header {
-   background-color: #DDB784
+   background-color: #DDB784;
    padding: 20px;
 }
+ 
+header a{
+ color: #816238;
+} 
 body{ 
    background-color:#FEF6E1;
    text-align: left;
@@ -59,4 +63,8 @@ blockquote {
 footer{
    background-color:#DDB784;
    padding: 20px;
+}
+
+footer a{
+   color: #816238;
 }
