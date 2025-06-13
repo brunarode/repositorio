@@ -1,19 +1,19 @@
 body{ 
    background-color:#FEF6E1;
    text-align: left;
-   font-size: 24 px;
+   font-size: 24px;
    font-family: 'Times New Roman', Times, serif;
 }
 
 .hero {
    text-align: left;
-   padding:0 %
-   margin:0 %
+   padding:0%
+   margin:0%
    position:relative
 }
 
 .img-inicio {
-   width: 100 %;
+   width: 100%;
    height:auto
    display: block;
 }
@@ -24,47 +24,47 @@ body{
  }
 
  .imagem {
-   width: 100 %;
+   width: 100%;
    max-width: 400px;
    height: auto;
    object-fit: cover;
    border-radius: 15px;
    margin: 10px;
-   margin-right: 20 px;
+   margin-right: 20px;
  }
 
 .caixa {
-   font-size: 20 px;
+   font-size: 20px;
    display: flex;
    flex-grow: 1;
    justify-content: space-between;   
-   max-width: 100 %;
-   width: 90 %;
+   max-width: 100%;
+   width: 90%;
    height: auto;
-   border: 2 px solid #DDB784;
-   border-radius: 15 px;
+   border: 2px solid #DDB784;
+   border-radius: 15px;
    background-color: #DDB784;
-   padding: 20 px;
+   padding: 20px;
    margin-bottom: 20px;
 }
 
 .coluna1, .coluna2 {
-  width: 48 %;
+  width: 48%;
 }
 
 h3, h4 {
    color: #5C3B1C;
-   margin-top: 15 px;
+   margin-top: 15px;
 }
 
 ul, ol {
-   margin-left: 10 px;
+   margin-left: 10px;
 }
 
 blockquote {
    font-style: italic;
    color: #5C3B1C;
-   margin-left: 20 px;
+   margin-left: 20px;
 }
 
 .inicio {
