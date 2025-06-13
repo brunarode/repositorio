@@ -55,3 +55,8 @@ blockquote {
 .inicio {
    color: #5C3B1C;
 }
+
+footer{
+   background-color:#816238;
+   display: inline-block;
+}
