@@ -1,4 +1,17 @@
- .imagem {
+ body{ 
+   background-color:#FEF6E1;
+   text-align: left;
+   font-size: 24 px;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2{
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+    color: #816238;
+ }
+
+.imagem {
    width: 100%;
    max-width: 400px;
    height: auto;
