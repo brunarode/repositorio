@@ -1,8 +1,4 @@
- header{
-background-color:#816238;
- }
-
- body{ 
+body{ 
    background-color:#FEF6E1;
    text-align: left;
    font-size: 24 px;
@@ -57,8 +53,4 @@ blockquote {
    font-style: italic;
    color: #5C3B1C;
    margin-left: 20px;
-}
-
-footer{
-   background-color:#816238;
 }

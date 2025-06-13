@@ -1,5 +1,5 @@
 header {
-   background-color:#816238;
+   background-color: #DDB784
    padding: 20px;
 }
 body{ 
@@ -57,6 +57,6 @@ blockquote {
 }
 
 footer{
-   background-color:#816238;
-   display: inline-block;
+   background-color:#DDB784;
+   padding: 20px;
 }
