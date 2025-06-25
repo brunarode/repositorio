@@ -4,6 +4,15 @@ body{
    font-size: 24 px;
    font-family: 'Times New Roman', Times, serif;
 }
+header {
+   background-color: #DDB784;
+   padding: 20px;
+}
+ 
+header a{
+ color: #816238;
+} 
+
 
 h1 {
     font-style: italic;

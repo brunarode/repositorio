@@ -4,6 +4,15 @@ body{
    font-size: 24 px;
    font-family: 'Times New Roman', Times, serif;
 }
+header {
+   background-color: #DDB784;
+   padding: 20px;
+}
+ 
+header a{
+ color: #816238;
+} 
+
 
 h1, h2{
     font-style: italic;
@@ -53,4 +62,12 @@ blockquote {
    font-style: italic;
    color: #5C3B1C;
    margin-left: 20px;
+}
+footer{
+   background-color:#DDB784;
+   padding: 20px;
+}
+
+footer a{
+   color: #816238;
 }
