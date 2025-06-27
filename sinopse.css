@@ -34,7 +34,7 @@ h1 {
    font-size: 20px;
    display: flex;
    flex-grow: 1;
-   justify-content: left;   
+   justify-content: space space-between;   
    max-width: 100%;
    width: 90%;
    height: auto;
@@ -45,10 +45,8 @@ h1 {
    margin-bottom: 20px;
 }
 
-.texto {
-display: flex;
-flex-direction: column;
-text-align: left;
+.coluna1, .coluna2 {
+  width: 48%;
 }
 
 footer{
