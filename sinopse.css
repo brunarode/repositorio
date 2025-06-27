@@ -34,7 +34,7 @@ h1 {
    font-size: 20px;
    display: flex;
    flex-grow: 1;
-   justify-content: space space-between;   
+   justify-content: space-between;   
    max-width: 100%;
    width: 90%;
    height: auto;
